@@ -1,0 +1,131 @@
+23.01.2023 18:46:16 - Błąd ładowania konfiguracji DB z pliku dbConfig.json (Could not find file 'D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\dbConfig.json'.)
+23.01.2023 19:30:43 - Błąd ładowania konfiguracji DB z pliku dbConfig.json (Could not find file 'D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\dbConfig.json'.)
+23.01.2023 19:31:03 - Błąd ładowania konfiguracji DB z pliku dbConfig.json (Could not find file 'D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\dbConfig.json'.)
+23.01.2023 19:31:14 - Błąd ładowania konfiguracji DB z pliku dbConfig.json (Could not find file 'D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\dbConfig.json'.)
+23.01.2023 22:41:25 - Błąd ładowania konfiguracji DB z pliku dbConfig.json (Could not find file 'D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\dbConfig.json'.)
+23.01.2023 22:41:56 - Błąd ładowania konfiguracji DB z pliku dbConfig.json (Could not find file 'D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\dbConfig.json'.)
+23.01.2023 22:42:18 - Błąd połączenia przy próbie zalogowania (Unable to connect to any of the specified MySQL hosts.)
+23.01.2023 22:42:29 - Błąd połączenia przy próbie zalogowania (Unable to connect to any of the specified MySQL hosts.)
+23.01.2023 22:46:11 - Błędny login lub hasło przy próbie logowania 
+24.01.2023 23:36:18 - Błędny login lub hasło przy próbie logowania 
+24.01.2023 23:58:58 - Błąd rejestracji użytkownika Unknown column 'id' in 'field list'
+24.01.2023 23:59:23 - Błąd rejestracji użytkownika The connection is already open.
+27.01.2023 12:46:22 - Błąd połączenia przy próbie zalogowania (Unable to connect to any of the specified MySQL hosts.)
+27.01.2023 12:49:44 - Błąd rejestracji użytkownika Unknown column 'id' in 'field list'
+27.01.2023 12:55:12 - Błąd rejestracji użytkownika Column 'employeeID' cannot be null
+27.01.2023 13:02:43 - Próba rejestracji użytkownika bez uprawnień, użytkownik: agnswi8
+27.01.2023 14:14:08 - Nie udało się użytkownikowi amares8 usunąć konta użytkownika agnswi8. 
+27.01.2023 14:15:36 - Nie udało się użytkownikowi amares8 usunąć konta użytkownika agnswi8. (Connection must be valid and open.)
+27.01.2023 14:17:03 - Użytkownik amares8 usunął konto użytkownika agnswi8. 
+27.01.2023 14:19:05 - Użytkownik amares8 usunął konto użytkownika leofer8. 
+27.01.2023 21:54:55 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+27.01.2023 22:45:43 - Wystąpił błąd przy próbie pobierania danych (Connection must be valid and open.)
+27.01.2023 22:51:39 - Wystąpił błąd przy próbie pobierania danych (Connection must be valid and open.)
+27.01.2023 22:52:17 - Wystąpił błąd przy próbie pobierania danych (Connection must be valid and open.)
+27.01.2023 23:29:25 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+27.01.2023 23:30:44 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+27.01.2023 23:31:46 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+28.01.2023 00:00:50 - Wystąpił błąd przy próbie pobierania danych (Unknown column 'lastdame' in 'field list')
+28.01.2023 00:01:44 - Wystąpił błąd przy próbie pobierania danych (Unable to connect to any of the specified MySQL hosts.)
+28.01.2023 00:02:36 - Błąd połączenia przy próbie zalogowania (Unable to connect to any of the specified MySQL hosts.)
+28.01.2023 00:02:39 - Błąd połączenia przy próbie zalogowania (Unable to connect to any of the specified MySQL hosts.)
+28.01.2023 00:03:02 - Błąd rejestracji użytkownika Unable to connect to any of the specified MySQL hosts.
+28.01.2023 00:03:07 - Wystąpił błąd przy próbie pobierania danych (Unable to connect to any of the specified MySQL hosts.)
+28.01.2023 23:28:45 - Inny/sql błąd przy pobieraniu danych o stanie magazynowym produktu. (Unknown column 'quanityInStock' in 'field list')
+28.01.2023 23:28:45 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+28.01.2023 23:31:36 - Inny/sql błąd przy pobieraniu danych o stanie magazynowym produktu. (Object reference not set to an instance of an object.)
+28.01.2023 23:31:36 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+28.01.2023 23:31:38 - Wystąpił problem przy walidacji id klienta podczas dodawania nowej transkacji. ({e.Message})
+28.01.2023 23:31:38 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 00:20:41 - Inny/sql błąd przy pobieraniu danych o stanie magazynowym produktu. (Connection must be valid and open.)
+29.01.2023 00:20:42 - Inny/sql błąd przy pobieraniu danych o stanie magazynowym produktu. (Connection must be valid and open.)
+29.01.2023 00:20:43 - Inny/sql błąd przy pobieraniu danych o stanie magazynowym produktu. (Connection must be valid and open.)
+29.01.2023 00:20:43 - Inny/sql błąd przy pobieraniu danych o stanie magazynowym produktu. (Connection must be valid and open.)
+29.01.2023 00:20:43 - Inny/sql błąd przy pobieraniu danych o stanie magazynowym produktu. (Connection must be valid and open.)
+29.01.2023 00:20:43 - Inny/sql błąd przy pobieraniu danych o stanie magazynowym produktu. (Connection must be valid and open.)
+29.01.2023 00:20:44 - Inny/sql błąd przy pobieraniu danych o stanie magazynowym produktu. (Connection must be valid and open.)
+29.01.2023 00:20:44 - Inny/sql błąd przy pobieraniu danych o stanie magazynowym produktu. (Connection must be valid and open.)
+29.01.2023 00:20:44 - Inny/sql błąd przy pobieraniu danych o stanie magazynowym produktu. (Connection must be valid and open.)
+29.01.2023 00:34:10 - Niewystarczajace stany magazynowe na sprzedaż produktu: 1 w ilości: 4. 
+29.01.2023 00:34:12 - Niewystarczajace stany magazynowe na sprzedaż produktu: 1 w ilości: 4. 
+29.01.2023 00:34:12 - Niewystarczajace stany magazynowe na sprzedaż produktu: 1 w ilości: 4. 
+29.01.2023 00:36:31 - Niewystarczajace stany magazynowe na sprzedaż produktu: 1001 w ilości: 4. 
+29.01.2023 03:02:46 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 03:21:19 - Niewystarczajace stany magazynowe na sprzedaż produktu: 1010 w ilości: 200. 
+29.01.2023 03:27:24 - Niewystarczajace stany magazynowe na sprzedaż produktu: 1006 w ilości: 5000. 
+29.01.2023 04:09:17 - Błąd przy wykonywaniu komendy 'SELECT COUNT(*) FROM employees WHERE login = chrrod8;', (Unknown column 'chrrod8' in 'where clause')
+29.01.2023 04:10:14 - Wystąpił błąd przy próbie pobierania danych (Unknown column 'amares8' in 'where clause')
+29.01.2023 04:12:59 - Wystąpił błąd przy próbie pobierania danych (Unknown column 'amares8' in 'where clause')
+29.01.2023 04:14:47 - Wystąpił błąd przy próbie pobierania danych (Unknown column 'amares8' in 'where clause')
+29.01.2023 04:25:14 - Wystąpił błąd przy próbie pobierania danych (You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(purchases.amount*products.sellingPrice/100, 2) WHERE purchases.productID = p...' at line 1)
+29.01.2023 04:25:17 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 04:26:21 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 05:31:05 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 05:31:05 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 05:31:05 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 05:31:05 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 05:31:08 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 05:35:37 - Wystąpił błąd przy próbie pobierania danych (You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'VARCHAR(10), purchases.date, 104), CONCAT(customers.firstName, ' ', customers...' at line 1)
+29.01.2023 05:35:37 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 05:35:37 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 05:35:37 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 05:37:44 - Wystąpił błąd przy próbie pobierania danych (You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GETDATE()), CONCAT(customers.firstName, ' ', customers.lastName), employees.l...' at line 1)
+29.01.2023 05:37:44 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 05:37:44 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 05:37:44 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 05:37:46 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 06:50:13 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 06:50:34 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 06:51:06 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 06:51:15 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 06:51:15 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 06:55:34 - Wystąpił błąd przy próbie pobierania danych (Unknown column 'login' in 'field list')
+29.01.2023 06:55:35 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 06:55:36 - Wystąpił błąd przy próbie pobierania danych (The connection is already open.)
+29.01.2023 08:30:01 - Wystąpił błąd przy próbie pobierania danych (You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM products' at line 1)
+29.01.2023 11:23:20 - Błąd przy wykonywaniu komendy 'SELECT quanityInStock FROM product WHERE productID = 1012;', (Table 'obi.product' doesn't exist)
+29.01.2023 11:25:27 - Błąd przy wykonywaniu komendy 'SELECT quanityInStock FROM product WHERE productID = 1012;', (Table 'obi.product' doesn't exist)
+29.01.2023 11:26:22 - Błąd przy wykonywaniu komendy 'SELECT quanityInStock FROM products WHERE productID = 1012;', (Unknown column 'quanityInStock' in 'field list')
+29.01.2023 11:27:02 - Próba zmniejszenia produktu na stanie o więcej niz go jest
+29.01.2023 11:27:14 - Błąd przy wykonywaniu komendy 'UPDATE `products` SET `quantityInStock` = quanityInStock+100 WHERE `products`.`productID` = 1012;', (Unknown column 'quanityInStock' in 'field list')
+29.01.2023 11:30:40 - Błąd przy wykonywaniu komendy 'SELECT quantityInStock FROM products WHERE productID = 1;', (Object reference not set to an instance of an object.)
+29.01.2023 11:32:29 - Próba dodania nieistniejacego produktu
+29.01.2023 12:29:18 - Podano błędne hasło przy zmianie hasła, użytkownik: amares8
+29.01.2023 12:29:28 - Błąd przy zmianie hasła The connection is already open.
+29.01.2023 12:29:32 - Błąd przy zmianie hasła The connection is already open.
+29.01.2023 12:30:13 - Podano błędne hasło przy zmianie hasła, użytkownik: amares8
+29.01.2023 12:30:36 - Błąd przy zmianie hasła The connection is already open.
+29.01.2023 12:32:03 - Podano błędne hasło przy zmianie hasła, użytkownik: amares8
+29.01.2023 12:32:13 - Podano błędne hasło przy zmianie hasła, użytkownik: amares8
+29.01.2023 12:34:29 - Błąd przy zmianie hasła Connection must be valid and open.
+29.01.2023 12:34:41 - Błąd przy zmianie hasła Connection must be valid and open.
+29.01.2023 12:37:24 - Podano błędne hasło przy zmianie hasła, użytkownik: amares8
+29.01.2023 12:37:46 - Podano błędne hasło przy zmianie hasła, użytkownik: amares8
+29.01.2023 13:42:56 - Użytkownik amares8 zresetował hasło użytkownika amares8
+29.01.2023 13:44:07 - Błędny login lub hasło przy próbie logowania 
+29.01.2023 13:44:28 - Użytkownik amares8 zresetował hasło użytkownika amares8
+29.01.2023 13:44:58 - Błędny login lub hasło przy próbie logowania 
+29.01.2023 13:45:19 - Użytkownik amares8 zresetował hasło użytkownika amares8
+29.01.2023 14:22:38 - Podano błędne (np puste) parametry przy próbie logowania
+29.01.2023 15:21:58 - Próba dodania nieistniejacego produktu
+29.01.2023 15:24:19 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 15:32:02 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 15:32:02 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 15:32:02 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 15:32:02 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 15:33:36 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 15:33:48 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 15:33:48 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 15:33:48 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 15:33:48 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 20:35:31 - Błąd połączenia przy próbie zalogowania (Unable to connect to any of the specified MySQL hosts.)
+29.01.2023 20:36:51 - Błędny login lub hasło przy próbie logowania 
+29.01.2023 20:43:50 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 20:43:50 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 20:43:50 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 20:43:50 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 20:46:39 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 20:46:39 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 20:46:39 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 20:46:39 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)
+29.01.2023 20:46:39 - Wystąpił błąd przy próbie pobierania danych (Index was outside the bounds of the array.)

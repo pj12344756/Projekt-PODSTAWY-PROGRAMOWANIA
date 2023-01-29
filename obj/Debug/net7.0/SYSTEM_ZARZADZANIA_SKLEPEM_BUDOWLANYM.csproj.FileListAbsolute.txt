@@ -1,0 +1,136 @@
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.exe
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.deps.json
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.runtimeconfig.json
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.pdb
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.csproj.AssemblyReference.cache
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.AssemblyInfoInputs.cache
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.AssemblyInfo.cs
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.csproj.CoreCompileInputs.cache
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\refint\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.pdb
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.genruntimeconfig.cache
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\ref\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\MySql.Data.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\ZstdNet.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.csproj.CopyComplete
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.csproj.AssemblyReference.cache
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.AssemblyInfoInputs.cache
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.AssemblyInfo.cs
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.csproj.CoreCompileInputs.cache
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\refint\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.pdb
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.exe
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.deps.json
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.runtimeconfig.json
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.pdb
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.csproj.CopyComplete
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.genruntimeconfig.cache
+C:\Users\Amares8\Documents\Programy\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\ref\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.exe
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.deps.json
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.runtimeconfig.json
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.pdb
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\MySql.Data.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\ZstdNet.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.csproj.AssemblyReference.cache
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.AssemblyInfoInputs.cache
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.AssemblyInfo.cs
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.csproj.CoreCompileInputs.cache
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.csproj.CopyComplete
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\refint\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.pdb
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.genruntimeconfig.cache
+D:\Projekty_IT\Visual Studio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\ref\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.exe
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.deps.json
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.runtimeconfig.json
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.pdb
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\MySql.Data.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\ZstdNet.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.csproj.AssemblyReference.cache
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.AssemblyInfoInputs.cache
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.AssemblyInfo.cs
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.csproj.CoreCompileInputs.cache
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.csproj.CopyComplete
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\refint\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.pdb
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.genruntimeconfig.cache
+D:\Projekty_IT\VisualStudio\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM\obj\Debug\net7.0\ref\SYSTEM_ZARZADZANIA_SKLEPEM_BUDOWLANYM.dll
